@@ -12,3 +12,20 @@ header {
 h1 {
   color: blue;
 }
+
+/*--------------------
+        FOOTER
+----------------------*/
+.lists-container{
+  display: flex;
+  color: red;
+}
+
+ul{
+  list-style: none;
+}
+
+.list{
+  padding: 10px;
+  border: 1px dashed red;
+}
